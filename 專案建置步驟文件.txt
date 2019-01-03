@@ -1,0 +1,5 @@
+¤@.
+1.add volley lib
+2.write singleton Volley object
+3.write interface to get result from Volley request
+4.Design UI
